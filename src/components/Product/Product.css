@@ -12,14 +12,12 @@
 }
 .addCartBtn{
     background-color:#f0c14b;;
-    width: 150px;
-    height: 30px;
+    width: 200px;
+    height: 26px;
     border: 1px solid dimgray;
     border-radius: 3px;
     border-color: #a88734 #9c7e31 #846a29;
     cursor: pointer;
     vertical-align: middle;
-    width: 200px;
-    height: 26px;
     border-width: 1px;
 }
